@@ -1,0 +1,44 @@
+{
+    "site": {
+      "title": "Multi-International Website",
+      "description": "Supporting multiple languages and currencies worldwide"
+    },
+    "navigation": {
+      "home": "Home",
+      "products": "Products", 
+      "about": "About",
+      "contact": "Contact"
+    },
+    "homepage": {
+      "welcome": "Welcome to Our Global Platform",
+      "subtitle": "Experience seamless shopping in your language and currency",
+      "getStarted": "Get Started",
+      "features": {
+        "title": "Our Features",
+        "languages": {
+          "title": "Multiple Languages",
+          "description": "Automatic language detection based on your location and browser preferences"
+        },
+        "currencies": {
+          "title": "Live Currency Conversion", 
+          "description": "Real-time currency conversion with live exchange rates from reliable APIs"
+        },
+        "detection": {
+          "title": "Smart Auto-Detection",
+          "description": "Intelligent detection of user preferences with manual override options"
+        }
+      }
+    },
+    "ui": {
+      "language": "Language",
+      "currentLanguage": "English",
+      "switchLanguage": "Switch Language",
+      "loading": "Loading..."
+    },
+    "status": {
+      "multiLanguage": "Multi-Language: Active",
+      "multiCurrency": "Multi-Currency: Coming Soon", 
+      "autoDetection": "Auto-Detection: Coming Soon"
+    }
+  }
+  

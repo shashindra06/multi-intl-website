@@ -1,0 +1,44 @@
+{
+    "site": {
+      "title": "Sitio Web Multi-Internacional",
+      "description": "Soporte para múltiples idiomas y monedas en todo el mundo"
+    },
+    "navigation": {
+      "home": "Inicio",
+      "products": "Productos",
+      "about": "Acerca de",
+      "contact": "Contacto"
+    },
+    "homepage": {
+      "welcome": "Bienvenido a Nuestra Plataforma Global",
+      "subtitle": "Experimenta compras sin problemas en tu idioma y moneda",
+      "getStarted": "Comenzar",
+      "features": {
+        "title": "Nuestras Características",
+        "languages": {
+          "title": "Múltiples Idiomas",
+          "description": "Detección automática de idioma basada en tu ubicación y preferencias del navegador"
+        },
+        "currencies": {
+          "title": "Conversión de Moneda en Vivo",
+          "description": "Conversión de moneda en tiempo real con tasas de cambio en vivo de APIs confiables"
+        },
+        "detection": {
+          "title": "Detección Automática Inteligente",
+          "description": "Detección inteligente de preferencias del usuario con opciones de anulación manual"
+        }
+      }
+    },
+    "ui": {
+      "language": "Idioma",
+      "currentLanguage": "Español", 
+      "switchLanguage": "Cambiar Idioma",
+      "loading": "Cargando..."
+    },
+    "status": {
+      "multiLanguage": "Multi-Idioma: Activo",
+      "multiCurrency": "Multi-Moneda: Próximamente",
+      "autoDetection": "Detección Automática: Próximamente"
+    }
+  }
+  
